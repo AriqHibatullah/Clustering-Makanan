@@ -1,5 +1,5 @@
 # Clustering Makanan Berdasarkan Kandungan Gizi
-Project ini merupakan implementasi dari Data Mining yang dilakukan tahapan data collecting, data preprocessing dan processing, analisis hasil, dan mengambil insight dari data yang telah diproses. Topik yang diangkat adalah clustering untuk mengelompokan makanan berdasarkan gizinya untuk mengetahui karakteristik dari setiap jenis kelompok makanan dan menemukan pola dalam setiap jenis makanan.
+Project ini merupakan implementasi dari Data Mining yang dilakukan tahapan data collecting, data preprocessing dan processing, analisis hasil, dan mengambil insight dari data yang telah diproses. Project Data Mining ini menggunakan metode clustering untuk mengelompokkan makanan berdasarkan kandungan gizinya, dengan tujuan untuk mengetahui karakteristik setiap kelompok makanan dan menemukan pola dalam jenis-jenis makanan tersebut.
 
 # Dataset
 Dataset yang dipakai adalah data kandungan karbohidrat, protein, lemak, kalori, energi, lemak jenuh, kolestrol, serat, gula, sodium, dan kalium pada setiap makanan dalam takaran saji 100 gram. Data yang digunakan diperoleh dari hasil scraping website yang menyediakan informasi gizi seperti website FatSecret.
