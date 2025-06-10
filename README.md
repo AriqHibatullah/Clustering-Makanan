@@ -38,6 +38,9 @@ Dilakukan modeling menggunakan 4 algoritma yang hasilnya akan dievaluasi dan dib
 # Hasil Cluster
 Setelah membandingkan hasil metrik evaluasi dari keempat algoritma, maka diputusakan untuk menggunakan algoritma K-Means dengan jumlah 5 cluster, dikarenakan hasilnya yang paling baik dan optimal secara statistik.
 
+![Hasil cluster](image/Hasil cluster.png)
+![heatmap](image/heatmap.png)
+
 - Cluster 0 (Lauk pauk tinggi protein)<br>
 Pada cluster ini diketahui bahwa kandungan nutrisi dengan nilai tertinggi yang ada pada setiap makanan adalah kandungan protein dengan nilai 0.62 dan nilai terendah ada pada kandungan gula yaitu 0.015. Jenis makanan pada cluster ini  merupakan makanan yang kaya protein namun rendah kandungan karbohidrat, gula, dan serat, biasanya jenis makanan dengan kandungan nutrisi ini adalah lauk pauk seperti ayam, telur, daging, tahu, dan tempe.
 
