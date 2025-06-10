@@ -9,8 +9,8 @@ Dataset yang dipakai adalah data kandungan karbohidrat, protein, lemak, kalori, 
 3. Hierarchical Clustering, mulai dari setiap titik sebagai cluster sendiri lalu gabungkan dua cluster terdekat secara bertahap hingga membentuk satu cluster besar.
 4. Gaussian Mixture Model (GMM), mengasumsikan data berasal dari campuran beberapa distribusi Gaussian, dan menghitung probabilitas tiap titik berasal dari masing-masing cluster.
 
-# Hasil
-## Evaluasi Model
+# Hasil Modeling
+Dilakukan modeling menggunakan 4 algoritma yang hasilnya akan dievaluasi dan dibandingan untuk mencari algoritma dengan performa yang terbaik.
 1. K-Means
    - Cluster: 5
    - Silhouette Score: 0.676
@@ -35,7 +35,9 @@ Dataset yang dipakai adalah data kandungan karbohidrat, protein, lemak, kalori, 
    - Davies-Bouldin Index : 1.327
    - Calinski-Harabasz Score : 103.019
 
-## Hasil Cluster
+# Hasil Cluster
+Setelah membandingkan hasil metrik evaluasi dari keempat algoritma, maka diputusakan untuk menggunakan algoritma K-Means dengan jumlah 5 cluster, dikarenakan hasilnya yang paling baik dan optimal secara statistik.
+
 - Cluster 0 (Lauk pauk tinggi protein)<br>
 Pada cluster ini diketahui bahwa kandungan nutrisi dengan nilai tertinggi yang ada pada setiap makanan adalah kandungan protein dengan nilai 0.62 dan nilai terendah ada pada kandungan gula yaitu 0.015. Jenis makanan pada cluster ini  merupakan makanan yang kaya protein namun rendah kandungan karbohidrat, gula, dan serat, biasanya jenis makanan dengan kandungan nutrisi ini adalah lauk pauk seperti ayam, telur, daging, tahu, dan tempe.
 
