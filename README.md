@@ -39,7 +39,7 @@ Dilakukan modeling menggunakan 4 algoritma yang hasilnya akan dievaluasi dan dib
 # Hasil Cluster
 Setelah membandingkan hasil metrik evaluasi dari keempat algoritma, maka diputusakan untuk menggunakan algoritma K-Means dengan jumlah 5 cluster, dikarenakan hasilnya yang paling baik dan optimal secara statistik.
 
-<img src="image/Hasilcluster.png" alt="Hasil Cluster" width="300" height="200"/>
+<img src="image/Hasilcluster.png" alt="Hasil Cluster" width="356" height="274"/>
 
 ![heatmap](image/heatmap.png)
 
