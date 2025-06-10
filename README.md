@@ -57,3 +57,9 @@ Pada cluster 3 kandungan nutrisi tergolong rata pada setiap aspek. Hal tersebut 
 
 - Cluster 4 (Cemilan ringan manis tinggi gula)<br>
 Pada cluster 4 kandungan nutrisi tertinggi ada pada karbohidrat dan gula dengan nilai 0.74, dan kandungan terendah pada cluster ini adalah protein, lemak, dan sodium. Makanan pada cluster ini isinya adalah makanan ringan yang manis seperti buah-buahan kering, brownis, macaron, permen, dan kismis.
+
+## Authors
+Project ini dibuat oleh:
+- Muhammad Ariq Hibatullah (23031554064)
+- Firdaini Azmi (23031554071)
+- Farah Raina Febiana (23031554132)
