@@ -1,5 +1,8 @@
 # Clustering Makanan Berdasarkan Kandungan Gizi
 
+# Dataset
+Dataset yang dipakai adalah data kandungan karbohidrat, protein, lemak, kalori, energi, lemak jenuh, kolestrol, serat, gula, sodium, dan kalium pada setiap makanan. Data yang digunakan diperoleh dari hasil scraping website yang menyediakan informasi gizi seperti website FatSecret.
+
 # Algoritma yang digunakan
 1. K-Means, membagi data ke dalam k cluster berdasarkan kedekatan ke titik pusat tiap cluster.
 2. Density-Based Spatial Clustering of Applications with Noise (DBSCAN), mencari area dengan kepadatan tinggi sebagai cluster, dan menganggap titik-titik noise sebagai outlier.
